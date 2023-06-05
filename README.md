@@ -1,4 +1,4 @@
-# prometheus-solax-exporter-php
+# prometheus-solaxcloud-exporter-php
 Prometheus exporter for SolaxCloud inverter data.
 
 ## Usage

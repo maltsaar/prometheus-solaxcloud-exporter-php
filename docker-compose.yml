@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   prometheus-solax-exporter-php:
-    image: prometheus-solax-exporter-php
+    image: prometheus-solaxcloud-exporter-php
     restart: always
     environment:
       - TOKEN_ID=XXXXXXXXXXXXXXXXXXXXXXX
