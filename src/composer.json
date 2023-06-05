@@ -1,0 +1,5 @@
+{
+    "require": {
+        "previousnext/php-prometheus": "^1.2"
+    }
+}

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  prometheus-solax-exporter-php:
+    image: prometheus-solax-exporter-php
+    restart: always
+    environment:
+      - TOKEN_ID=XXXXXXXXXXXXXXXXXXXXXXX
+      - SN=XXXXXXXXXX
+    ports:
+      - 8092:8080
