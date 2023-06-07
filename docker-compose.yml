@@ -8,4 +8,4 @@ services:
       - TOKEN_ID=XXXXXXXXXXXXXXXXXXXXXXX
       - SN=XXXXXXXXXX
     ports:
-      - 8092:8080
+      - 8092:8060
